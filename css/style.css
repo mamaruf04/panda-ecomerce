@@ -1,0 +1,33 @@
+/* navigation */
+.nav-style{
+    height: 80px;
+}
+.top-margin{
+    margin-top: 150px;
+}
+.top-baner{
+    background-color:#FEEAE9;
+    border-radius: 20px;
+}
+.doller{
+    color:#FF136F;
+}
+.btn-dsn{
+    background-image: linear-gradient(#FF589B,#FF136F);
+}
+.btn-lg{
+    border:0;
+}
+/* ----watch,shors,bags---- */
+.bg-watch{
+    background-image: linear-gradient( 75deg,#FF9C35 ,#FF136F);
+}
+.bg-shoes{
+    background-image: linear-gradient(75deg,#FF136F,#4289FF);
+}
+.bg-bag{
+    background-image: linear-gradient(75deg,#4289FF,#ff5999);
+}
+.radious{
+    border-radius: 10px;
+}
